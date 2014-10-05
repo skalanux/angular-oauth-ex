@@ -23,7 +23,7 @@ Running Angular part
 ```bash
 npm install
 bower install
-grunt serve
+grunt server
 ```
 
 Then go to http://localhost:9000 and login using user:admin password:123456
